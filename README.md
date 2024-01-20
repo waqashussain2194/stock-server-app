@@ -33,3 +33,12 @@ To start the application in development mode, run the following command:
 ### `nodemon server.js`
 
 This will run the app in development mode. You can open [http://localhost:5000](http://localhost:5000) to view it in your browser for basic route.
+
+## Sample ScreenShots of the end points
+
+<img width="1250" alt="Screenshot 2024-01-21 at 1 40 03 AM" src="https://github.com/waqashussain2194/todos-app/assets/109997361/9b0fdac7-47b7-4744-a6f7-4b4168ed723b">
+
+<img width="1250" alt="Screenshot 2024-01-21 at 1 40 23 AM" src="https://github.com/waqashussain2194/todos-app/assets/109997361/1e889552-d7ec-4b3f-94ff-0786910d9b11">
+
+<img width="1252" alt="Screenshot 2024-01-21 at 1 41 15 AM" src="https://github.com/waqashussain2194/todos-app/assets/109997361/9bd091bf-7294-417a-a9ac-d00da88b2d32">
+
