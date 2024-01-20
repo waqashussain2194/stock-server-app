@@ -16,7 +16,7 @@ The goal of this project is to create a real-time stock market dashboard that di
 2. **Install Dependencies**:
 
 - Navigate to the project directory and install the necessary dependencies:
-### `npm install`
+`npm install`
 
 3. **Environment Variables**:
 
@@ -25,7 +25,7 @@ The goal of this project is to create a real-time stock market dashboard that di
 4. **Database**:
 
 - In this project we're using PostgreSQL database. Before running the projcet. Please create a database in Postgres with name:
-### `stocks`
+`stocks`
 
 ## Running the Project
 
