@@ -11,7 +11,7 @@ const initializeDB = async () => {
     `;
     await db.query(queryText);
   } catch (err) {
-    next(err);
+    throw err;
   }
 };
 

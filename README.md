@@ -31,6 +31,8 @@ The goal of this project is to create a real-time stock market dashboard that di
 
 To start the application in development mode, run the following command:
 ### `nodemon server.js`
+or if you dont have nodemon then run
+### `node server.js` 
 
 This will run the app in development mode. You can open [http://localhost:5000](http://localhost:5000) to view it in your browser for basic route.
 
